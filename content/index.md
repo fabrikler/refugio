@@ -6,9 +6,6 @@ Ein **Hórreo** ist ein traditionelles, aus dem Norden Spanien stammendes Lagerh
 Dieser _digitale Garten_ ist ein _refugio_, ein _hide-out_, fernab der Hektik der Zivilisation, wo Gedanken und Ideen in Ruhe gedeihen und wachsen können.
 
 
-![](content/files/refugio-horreo.jpg)
-
-
-
+![](files/refugio-horreo.jpg)
 
 
