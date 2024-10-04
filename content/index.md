@@ -1,7 +1,7 @@
 ---
 title: Welcome to the Refugio
 ---
-![[attachements/carlos-rothorn.jpg|400]]
+![[attachements/carlos-rothorn.jpg|center]]
 
 I'm Carlos, a Swiss [photographer](http://www.faustkeil.ch) fascinated by data and its visualizations, currently learning how to code.
 
