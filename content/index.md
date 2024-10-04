@@ -1,5 +1,5 @@
 ---
-title: Welcome to the Refugio
+title: about this digital garden
 ---
 ![[attachements/carlos-rothorn.jpg| center| 400]]
 
