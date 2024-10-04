@@ -17,7 +17,5 @@ My message is simple: Anyone can learn anything if they dedicate their time and 
 
 If you have any question or just want to say hi, don't hesitate to [reach out](mailto:hi@carlosmeyer.com)
 
----
-
 
 
